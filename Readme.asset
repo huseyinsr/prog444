@@ -1,26 +1,28 @@
 les 1 
 
-
 https://s5.ezgif.com/tmp/ezgif-52da311be801e6.gif
 
-[code](scripts/PlayerScore.cs)
-
+my codes 
+PlayerScore.cs
+Als je op de spatie klikt wordt je score hoger.
 
 
 les 2 
 
-
 https://s8.ezgif.com/tmp/ezgif-8738a4031ea067.gif
 
-
+my codes 
+PlayterController.cs
+het is een sspeelbaare karakter.
 
 
 les 3
 
-
 https://s8.ezgif.com/tmp/ezgif-872aebf4e8df2d.gif
 
-
+my codes 
+GameManager.cs
+Je kan munten verzamelen. Na 20 seconden je kan jouw score zien.
 
 
 
@@ -29,8 +31,10 @@ les 4
 
 https://s8.ezgif.com/tmp/ezgif-8c068bf2a6b06e.gif
 
-
-
+my codes 
+player.cs
+SceneSwitcher.cs
+als je op de spatiebalk klikt wordt jouw scène veranderd.
 
 
 
@@ -39,3 +43,8 @@ les 5
 
 
 https://s8.ezgif.com/tmp/ezgif-8bf4a33d302bdf.gif
+
+my codes 
+PlayerMove.cs
+ScoreManager.cs
+Je zien een error aLs je scoreManager script niet goed gekoppeld
